@@ -1,0 +1,35 @@
+The csv files needed to make the code work can be found here: https://dx.doi.org/10.17028/rd.lboro.2070091
+
+The csv files contained within this folder are part of the REFIT dataset and fall under the same licence and citation requirements:
+
+AFFILIATIONS
+Steven Firth, Tom Kane, Vanda Dimitriou, Tarek Hassan, Farid Fouchal, Michael Coleman and Lynda Webb
+Building Energy Research Group, School of Civil and Building Engineering, Loughborough University, UK
+---
+INTRO
+This dataset is made publically available to support research in the area of end-use energy demand in the domestic building sector. 
+Possible topics which this dataset might inform are:
+1. Internal environmental conditions and energy demands in UK homes.
+2. Analytic techniques for Smart Meter and Smart Home data.
+3. Occupant behaviour in UK homes.
+4. Model inputs for building energy models.
+Please download and make use of this dataset in your own research and we are happy to answer any questions about the dataset and its use.
+
+----
+
+ADDITIONAL REFIT DATASETS - ELECTRICITY DATA, UNIVERSITY OF STRATHCLYDE
+Murray, David and Stankovic, Lina (2016). REFIT: Electrical Load Measurements (Cleaned) - available at: http://dx.doi.org/10.15129/9ab14b0e-19ac-4279-938f-27f643078cec
+
+----
+CITATION INFORMATION
+Firth, Steven; Kane, Tom; Dimitriou, Vanda; Hassan, Tarek; Fouchal, Farid; Coleman, Michael; Webb, Lynda (): REFIT Smart Home dataset. figshare. 
+https://dx.doi.org/10.17028/rd.lboro.2070091
+
+----
+ACKNOWLEDGEMENTS
+This work has been carried out as part of the REFIT project (ëPersonalised Retrofit Decision Support Tools for UK Homes using Smart Home Technologyí, Grant Reference EP/K002457/1). 
+REFIT is a consortium of three universities - Loughborough, Strathclyde and East Anglia - and ten industry stakeholders funded by the Engineering and Physical Sciences Research Council (EPSRC) under the Transforming Energy Demand in Buildings through Digital Innovation (BuildTEDDI) funding programme. 
+For more information see: www.epsrc.ac.uk and www.refitsmarthomes.org
+
+
+
